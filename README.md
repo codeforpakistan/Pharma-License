@@ -1,6 +1,3 @@
-# Pharma-License
-
-Digitization of Pharmaceutical Licenses
 ###################
 What is CodeIgniter
 ###################
